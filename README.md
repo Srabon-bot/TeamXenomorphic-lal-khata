@@ -18,11 +18,7 @@ go on credit (*baki*), tracked by hand in a paper ledger. Records get lost,
 disputes happen, and many shopkeepers or their helpers aren't comfortable
 with typing-heavy apps. Lal Khata replaces the pen with a voice.
 
-## Screenshots
 
-| Welcome | Ledger | Confirmation card |
-|---|---|---|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
 
 ## How it works
 
